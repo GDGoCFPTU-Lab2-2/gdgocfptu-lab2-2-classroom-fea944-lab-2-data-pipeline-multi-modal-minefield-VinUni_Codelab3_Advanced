@@ -1,0 +1,5 @@
+google-generativeai
+pydantic
+pandas
+beautifulsoup4
+python-dotenv

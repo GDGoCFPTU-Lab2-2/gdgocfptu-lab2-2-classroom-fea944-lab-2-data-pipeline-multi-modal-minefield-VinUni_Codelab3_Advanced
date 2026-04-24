@@ -1,0 +1,22 @@
+id,product_name,category,price,currency,date_of_sale,seller_id,stock_quantity
+1,Laptop VinAI Pro 14,Electronics,$1200,USD,2026-01-15,S001,45
+2,Wireless Mouse,Electronics,250000,VND,15/01/2026,S002,120
+3,USB-C Hub 7-Port,Electronics,N/A,USD,January 16th 2026,S003,0
+4,Mechanical Keyboard,Electronics,1500000,VND,2026-01-17,S004,30
+1,Laptop VinAI Pro 14,Electronics,1200,USD,2026-01-15,S001,45
+5,HDMI Cable 2m,Accessories,five dollars,USD,17-01-2026,S005,200
+6,Monitor 27 inch 4K,Electronics,8500000,VND,2026-01-18,S001,12
+7,Webcam HD 1080p,Electronics,-350000,VND,2026/01/19,S002,55
+8,SSD 1TB NVMe,Electronics,2200000,VND,19 Jan 2026,S003,88
+9,Laptop Stand,Accessories,450000,VND,2026-01-20,S004,
+10,Bluetooth Speaker,Electronics,850000,VND,2026-01-20,S005,40
+11,Gaming Headset,Electronics,1200000,VND,2026-01-21,S001,25
+12,Power Bank 20000mAh,Accessories,600000,VND,21/01/2026,S002,70
+13,Smart Watch VinHealth,Wearables,Liên hệ,VND,2026-01-22,S003,15
+14,Phone Case Premium,Accessories,150000,VND,January 22nd 2026,S004,300
+15,Laptop VinAI Pro 14,Electronics,1200,USD,2026-01-22,S001,45
+16,Tablet 10 inch,Electronics,5500000,VND,2026-01-23,S005,20
+17,Earbuds TWS Pro,Electronics,750000,VND,23-01-2026,S001,60
+18,Screen Protector,Accessories,85000,VND,2026/01/24,S002,500
+19,External HDD 2TB,Electronics,1800000,VND,24 Jan 2026,S003,35
+20,RAM DDR5 16GB,Electronics,NULL,VND,2026-01-25,S004,42
