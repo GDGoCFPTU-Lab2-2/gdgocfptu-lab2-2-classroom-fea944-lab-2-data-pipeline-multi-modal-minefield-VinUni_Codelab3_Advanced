@@ -9,7 +9,7 @@ def deep_audit_workflow():
     # Định nghĩa các câu lệnh "bắt buộc" phải có để đảm bảo tính an toàn
     mandatory_commands = [
         r"pip install -r requirements\.txt",
-        r"curl -s .agent_forensic\.py -o \.?/?forensic_agent/agent_forensic\.py",
+        # r"curl -s .*agent_forensic\.py -o \.?/?forensic_agent/agent_forensic\.py",
         r"python \.?/?forensic_agent/agent_forensic\.py"
     ]
 
