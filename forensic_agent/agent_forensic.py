@@ -8,10 +8,9 @@ def deep_audit_workflow():
     
     # Định nghĩa các câu lệnh "bắt buộc" phải có để đảm bảo tính an toàn
     mandatory_commands = [
-        r"pip install -r requirements.txt",
-        # Kiểm tra lệnh curl tải file master (dùng regex để linh hoạt với khoảng trắng)
-        r"curl -s .*agent_forensic\.py -o \./forensic_agent/agent_forensic\.py",
-        r"python \./forensic_agent/agent_forensic\.py"
+        r"pip install -r requirements\.txt",
+        r"curl -s .*agent_forensic\.py -o \.?/?forensic_agent/agent_forensic\.py",
+        r"python \.?/?forensic_agent/agent_forensic\.py"
     ]
 
     if not os.path.exists(workflow_path):
